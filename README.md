@@ -27,7 +27,7 @@ How Url Shortener API Works:
 ## USAGE
 #### 1. Endpoint List
 URI Example: `http://localhost:8000/shorten-url/`
-
+(Eg. body: {'url':'https://www.epochconverter.com/')
 
 | | Available Methods | URI | Example URL |
 | -: | :- | :- | -: |
